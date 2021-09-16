@@ -1,9 +1,9 @@
-
+This project was made by me for Automobile Department of AISSMS Polytechnic College as a Final Year Capstone Project this project is mainly developed with Django, HTML and CSS
 
 Features of this Project:
 
 A. HOD Users Can:
-1. See Overall Summary Charts of Stuudents Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
+1. See Overall Summary Charts of Students Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
 2. Manage Staffs (Add, Update and Delete)
 3. Manage Students (Add, Update and Delete)
 4. Manage Course (Add, Update and Delete)
@@ -29,11 +29,31 @@ C. Students Can:
 
 Login Page:
 From this page you can log in as HOD, Staff or Student
-![Login Page](https://user-images.githubusercontent.com/84791944/133544823-b0c0c6ed-1ef0-490b-af5c-e453d7443e0c.jpg)
+
+![Login Page](https://user-images.githubusercontent.com/84791944/133545479-5d1161ee-fca2-4d5a-ad9d-780f7a4f29c7.jpg)
+
 
 HOD Dashboard:
-When you login as HOD you see the HOD Dashboard which contains graphs and pie charts stating all the information regarding staff and students 
-![HOD Dashboard](https://user-images.githubusercontent.com/84791944/133545170-632846a8-108a-4f08-ab1c-c084691c0259.png)
+When you login as HOD you see the HOD Dashboard which contains Summary Charts of Students Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
+
+![HOD Dashboard](https://user-images.githubusercontent.com/84791944/133545572-a477c425-8d21-4461-9fa6-3ef96a60c773.png)
+
+
+Upload Homework & Homework List:
+As an HOD you can Upload Homework, View who Uploaded the Homework, Date and time 
+
+![Upload Homework](https://user-images.githubusercontent.com/84791944/133546337-c908e30d-2116-4636-b788-82cabb1acf0b.png)
+
+![Homework list](https://user-images.githubusercontent.com/84791944/133547466-119b187a-3241-454a-930e-d90b2ee5324a.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
