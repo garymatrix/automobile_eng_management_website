@@ -1,8 +1,8 @@
-This project was made by me for Automobile Department of AISSMS Polytechnic College as a Final Year Capstone Project this project is mainly developed with Django, HTML and CSS
+This project was made by me for Automobile Department of AISSMS College, this project is mainly developed with Django, HTML & Bootstrap
 
 Features of this Project:
 
-A. HOD Users Can:
+A. HOD/Admin Can:
 1. See Overall Summary Charts of Students Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
 2. Manage Staffs (Add, Update and Delete)
 3. Manage Students (Add, Update and Delete)
