@@ -27,12 +27,6 @@ C. Students Can:
 4. Apply for Leave
 5. Send Feedback to HOD
 
-Login Page:
-From this page you can log in as HOD, Staff or Student
-
-![Login Page](https://user-images.githubusercontent.com/84791944/133545479-5d1161ee-fca2-4d5a-ad9d-780f7a4f29c7.jpg)
-
-
 HOD Dashboard:
 When you login as HOD you see the HOD Dashboard which contains Summary Charts of Students Performance, Staffs Perfomrances, Courses, Subjects, Leave, etc.
 
